@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/75999878/178590500-bdc5aeb0-a348-4ff6-bc20-c9fe2c25673c.png)](https://Manteg-Singh.github.io)
 <h1 align="center">Hi 👋, I'm Manteg Singh</h1>
-<h3 align="center">A passionate programmer currently pursuing B.Tech in Computer Science from Punjab Engineering College (PEC)</h3>
+<h3 align="center">A passionate programmer currently pursuing B.Tech in Computer Science from Punjab Engineering College (PEC), Chandigarh </h3>
 <img align="right" alt="Programming" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manteg-singh&label=Profile%20views&color=0e75b6&style=flat" alt="manteg-singh" /> </p>
 
