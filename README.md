@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Productive Leetcoding](https://github.com/Manteg-Singh/Productive-Leetcoding-Extension)
 
 - 📫 How to reach me **manteg.singh13@gmail.com**
 
